@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juniorsii
 - 👀 I’m interested in new projects
-- 🌱 I’m currently learning React, React Native,  Angular.
+- 🌱 I’m currently learning HTML, SASS, javascript, PHP, React, Vue.
 - 📫 How to reach me juniorsilvaphb@gmail.com
 
 <!---
