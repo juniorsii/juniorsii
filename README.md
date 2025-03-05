@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juniorsii
 - 👀 I’m interested in new projects
-- 🌱 I’m currently learning HTML, SASS, Bootstrap, Tailwindcss, Javascript, PHP, Laravel, React, React Native and Vue.
+- 🌱 I’m currently learning HTML, SASS, Bootstrap, Tailwindcss, Javascript, PHP, Laravel, React, React Native, Next JS and Vue.
 - 📫 How to reach me juniorsilvaphb@gmail.com
 - 📱 +55 86 99553-9839
 
